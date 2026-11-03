@@ -1,0 +1,12 @@
+sku,product_name,warehouse_location,stock_count,reorder_level,unit_cost,last_restocked
+SKU-901,  Precision Screwdriver Set  ,Aisle 3A,150,50,14.99,2024-05-10
+SKU-902,Digital Multimeter,Aisle 2B,45,20,39.50,2024-05-12
+SKU-903,Soldering Station 60W,Aisle 2B,,15,85.00,2024-05-14
+SKU-904,Heat Shrink Tubing Pack,Aisle 1A,320,100,6.25,2024-05-15
+SKU-905,Anti-Static Wrist Strap,Aisle 4C,80,25,,2024-05-18
+SKU-906,Wire Stripper Tool,aisle 3a,110,40,18.75,2024-05-20
+SKU-907,Benchtop Power Supply,Aisle 2B,12,10,145.00,2024-05-22
+SKU-908,Oscilloscope 100MHz,AISLE 2B,5,5,420.00,2024-05-25
+SKU-902,Digital Multimeter,Aisle 2B,45,20,39.50,2024-05-12
+SKU-909,Insulated Pliers Set,Aisle 3A,60,20,24.00,
+SKU-910,Component Organizer Box,   ,200,50,9.90,2024-06-01
